@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #7469B6;
+}
+
+#city{
+    width: 200px;
+    height: 15px; 
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-left: 650px;
+    margin-top: 100px;
+    background-color: #AD88C6;
+    color: black;
+    text-emphasis-color: black;
+}
+
+#btn{
+    background-color: #AD88C6;
+    display: flex;
+    margin-left: 700px;
+    margin-top: 20px;
+    width: 150px;
+    height:40px;
+    font-size: 20px;
+    text-align: center;
+}
+
+#head{
+    color: yellow;
+    text-align: center;
+    font-size: 100px;
+}
+
+
+#name{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+#time{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+#temp{
+    text-align: center;
+   font-size: 25px;
+    margin-top: 20px;
+}
+
